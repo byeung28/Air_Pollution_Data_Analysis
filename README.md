@@ -4,5 +4,6 @@
 
 -Used R to generate accurate forecasting on testing data set 
 
--Used time series analytical skills to produce more accurate predictions on testing set.
+-Used time series analytical skills to produce more accurate predictions on testing set
 
+-divided the data in to two goups: testing and training data set
